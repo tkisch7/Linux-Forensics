@@ -79,7 +79,7 @@ In this lab, we will touch on the following items regarding Linux forensics:
 <img src="https://imgur.com/mphHMvp.png" height="80%" width="80%" alt="Splunk Searching Steps"/>
  <br />
 <br />
-16. Like windows, services can be set up to run in the background after every system boot. A list of these services are stored in the /etc/init.d directory. We can check the contents using the ls command. <br/>
+16. Like windows, services can be set up to run in the background after every system boot. A list of these services is stored in the /etc/init.d directory. We can check the contents using the ls command. <br/>
 <img src="https://imgur.com/VYwfJQv.png" height="80%" width="80%" alt="Splunk Searching Steps"/>
  <br />
 <br />
@@ -99,7 +99,7 @@ In this lab, we will touch on the following items regarding Linux forensics:
 <img src="https://imgur.com/Wyyying.png" height="80%" width="80%" alt="Splunk Searching Steps"/>
  <br />
 <br />
-21. The Syslog contains messages that are recorded by the host about system activity. The detail which is recorded is configured through the logging level.   <br/>
+21. The Syslog contains messages that are recorded by the host about system activity. The detail that is recorded is configured through the logging level.   <br/>
 <img src="https://imgur.com/MaU0f4z.png" height="80%" width="80%" alt="Splunk Searching Steps"/>
  <br />
 <br />
@@ -107,7 +107,7 @@ In this lab, we will touch on the following items regarding Linux forensics:
 <img src="https://imgur.com/LHESzTA.png" height="80%" width="80%" alt="Splunk Searching Steps"/>
  <br />
 <br />
-23. 23.	Third party logs are stored in the /var/log directory along with the other logs.  <br/>
+23. Third party logs are stored in the /var/log directory along with the other logs.  <br/>
 </p>
 
 <!--
